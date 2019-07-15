@@ -1,0 +1,13 @@
+I love smart home products. Currently in my own home, i have multiple smart light bulbs
+Smart devices have changed my life completely. I have incorporated it in my daily routine from
+me asking alexa what the weather is like so i can dress accordingly to asking alexa to turn on my
+favorite star lamp that brightens the entire room. I wanted to create a platform where people
+can also make their day to day lives easier with smart devices.
+
+Smart Devices
+1. Light Bulbs
+2. Door Bell
+3. Key fobs
+4. Smart plugs
+5. Alexa, Google home
+6. Smart Thermostat
