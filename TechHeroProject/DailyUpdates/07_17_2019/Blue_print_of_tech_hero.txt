@@ -1,0 +1,20 @@
+****************************************** End Routes ******************************************************************
+
+index : Welcome Page
+
+Description of services
+Video they can watch with cool smart devices
+
+Sign Up
+Create an account includes
+1. Name
+2. Address
+3. Check Box of Devices they want to install
+4. Link to amazon where items can be purchased
+5. Date job needed
+6. Additional Comments
+7. Pets at home ( yes or no )
+8. Profile Pic
+
+
+
